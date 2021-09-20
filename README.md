@@ -1,6 +1,10 @@
-## Getting Started
+#Exercício Realizado em grupo (Arcénio Corteis e Nádia Pita)
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+## Actividade 3 – Grupo 5 e 6
+Escreva um programa que jogue “adivinhe o número”: o programa escolhe um número a ser adivinhado, selecionando-o randomicamente no intervalo de 1-100. O programa mostra uma mensagem (JLabel) – Eu tenho um número entre 1 e 100, você pode adivinhá-lo? Entre com seu chute.
+- Um JTextField deve ser usado na captura do valor. Para cada tentativa de adivinhação um Label deve apresentar o intervalo em que o número se encontra.
+- Quando a resposta estiver correta, você deve mostrar a frase “Correto!” e não permitir mais a edição no JTextField.
+- Um JButton deve permitir um novo jogo. Quando o JButton é clicado, um novo número randômico deve ser gerado e o JTextField ser editável.
 
 ## Folder Structure
 
